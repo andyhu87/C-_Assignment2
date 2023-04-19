@@ -4,6 +4,14 @@ Test Your Knowledge Questions [Assignment_2](https://github.com/andyhu87/C-_Assi
 
 **CODING**
 
+Examples in 
+'''
+class Program {
+    static void Main() {
+      ...
+    }
+'''
+
 1. PracticeArray 
    - Copying an Array
    - List Management
